@@ -1,0 +1,226 @@
+[
+    {
+      "id": 1,
+      "title": "Inception",
+      "image": "inception.jpg",
+      "genre": "sci-fi",
+      "rating": "8.8"
+    },
+    {
+      "id": 2,
+      "title": "Avengers: Endgame",
+      "image": "avengers_endgame.jpg",
+      "genre": "action",
+      "rating": "8.4"
+    },
+    {
+      "id": 3,
+      "title": "The Dark Knight",
+      "image": "dark_knight.webp",
+      "genre": "action",
+      "rating": "9.0"
+    },
+    {
+      "id": 4,
+      "title": "RRR",
+      "image": "rrr.jpg",
+      "genre": "action",
+      "rating": "8.0"
+    },
+    {
+      "id": 5,
+      "title": "Baahubali: The Beginning",
+      "image": "baahubali1.jpg",
+      "genre": "action",
+      "rating": "8.0"
+    },
+    {
+      "id": 6,
+      "title": "Baahubali 2: The Conclusion",
+      "image": "baahubali2.jpg",
+      "genre": "action",
+      "rating": "8.2"
+    },
+    {
+      "id": 7,
+      "title": "KGF: Chapter 1",
+      "image": "kgf1.jpg",
+      "genre": "action",
+      "rating": "8.2"
+    },
+    {
+      "id": 8,
+      "title": "KGF: Chapter 2",
+      "image": "kgf2.webp",
+      "genre": "action",
+      "rating": "8.4"
+    },
+    {
+      "id": 9,
+      "title": "Dangal",
+      "image": "dangal.jpg",
+      "genre": "biography",
+      "rating": "8.4"
+    },
+    {
+      "id": 10,
+      "title": "Lagaan",
+      "image": "lagaan.jpg",
+      "genre": "drama",
+      "rating": "8.1"
+    },
+    {
+      "id": 11,
+      "title": "Sholay",
+      "image": "sholay.jpg",
+      "genre": "action",
+      "rating": "8.2"
+    },
+    {
+      "id": 12,
+      "title": "Kabir Singh",
+      "image": "kabir_singh.jpg",
+      "genre": "romance",
+      "rating": "7.1"
+    },
+    {
+      "id": 13,
+      "title": "Zindagi Na Milegi Dobara",
+      "image": "zindagi_na_milegi_dobara.webp",
+      "genre": "comedy",
+      "rating": "8.1"
+    },
+    {
+      "id": 14,
+      "title": "Andhadhun",
+      "image": "andhadhun.jpg",
+      "genre": "thriller",
+      "rating": "8.2"
+    },
+    {
+      "id": 15,
+      "title": "Drishyam",
+      "image": "drishyam.jpg",
+      "genre": "thriller",
+      "rating": "8.2"
+    },
+    {
+      "id": 16,
+      "title": "Pushpa: The Rise",
+      "image": "pushpa_rise.jpg",
+      "genre": "action",
+      "rating": "7.6"
+    },
+    {
+      "id": 17,
+      "title": "Ala Vaikunthapurramuloo",
+      "image": "ala_vaikunthapurramuloo.jpeg",
+      "genre": "comedy",
+      "rating": "7.4"
+    },
+    {
+      "id": 18,
+      "title": "Maharshi",
+      "image": "maharshi.jpg",
+      "genre": "drama",
+      "rating": "7.6"
+    },
+    {
+      "id": 19,
+      "title": "Chhichhore",
+      "image": "chhichhore.jpg",
+      "genre": "comedy",
+      "rating": "8.0"
+    },
+    {
+      "id": 20,
+      "title": "Taare Zameen Par",
+      "image": "taare_zameen_par.webp",
+      "genre": "drama",
+      "rating": "8.4"
+    },
+    {
+      "id": 21,
+      "title": "Dil Chahta Hai",
+      "image": "dil_chahta_hai.jpg",
+      "genre": "drama",
+      "rating": "8.1"
+    },
+    {
+      "id": 22,
+      "title": "Vikram",
+      "image": "vikram.jpg",
+      "genre": "action",
+      "rating": "8.3"
+    },
+    {
+      "id": 23,
+      "title": "Jersey",
+      "image": "jersey.jpg",
+      "genre": "sports",
+      "rating": "7.9"
+    },
+    {
+      "id": 24,
+      "title": "Bajrangi Bhaijaan",
+      "image": "bajrangi_bhaijaan.jpg",
+      "genre": "comedy",
+      "rating": "8.0"
+    },
+    {
+      "id": 25,
+      "title": "Sultan",
+      "image": "sultan.jpg",
+      "genre": "action",
+      "rating": "7.5"
+    },
+    {
+      "id": 26,
+      "title": "Jawan",
+      "image": "jawan.jpg",
+      "genre": "action",
+      "rating": "7.8"
+    },
+    {
+      "id": 27,
+      "title": "Haider",
+      "image": "haider.webp",
+      "genre": "drama",
+      "rating": "8.1"
+    },
+    {
+      "id": 28,
+      "title": "Sye",
+      "image": "sye.jpg",
+      "genre": "sports",
+      "rating": "7.6"
+    },
+    {
+      "id": 29,
+      "title": "Uri: The Surgical Strike",
+      "image": "uri.jpg",
+      "genre": "action",
+      "rating": "8.0"
+    },
+    {
+      "id": 30,
+      "title": "Kahaani",
+      "image": "kahaani.jpg",
+      "genre": "thriller",
+      "rating": "8.1"
+    },
+    {
+      "id": 31,
+      "title": "The Shawshank Redemption",
+      "image": "shawshank_redemption.jpg",
+      "genre": "drama",
+      "rating": "9.3"
+    },
+    {
+      "id": 32,
+      "title": "3 Idiots",
+      "image": "3_idiots.webp",
+      "genre": "comedy",
+      "rating": "8.4"
+    }
+  ]
